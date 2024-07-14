@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3moahead&label=Profile%20views&color=0e75b6&style=flat" alt="n3moahead" /> </p>
 
-- 🔭 I’m currently working on [logbook](github.com/N3moAhead/logbook)
+- 🔭 I’m currently working on [logbook](https://github.com/N3moAhead/bomberman)
 
 - 🌱 I’m currently learning **Kubernetes and Terraform**
 

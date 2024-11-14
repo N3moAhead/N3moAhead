@@ -15,6 +15,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n3moahead&show_icons=true&locale=en&layout=compact" alt="n3moahead" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n3moahead&" alt="n3moahead" /></p>
-

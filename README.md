@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm N3mo</h1>
-<h3 align="center">A student of applied computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3moahead&label=Profile%20views&color=0e75b6&style=flat" alt="n3moahead" /> </p>
 
-- 🔭 I’m currently working on a multiplayer arcade platform [archaide](https://github.com/Driemtax/Archaide) 
-
-- 🌱 I’m currently learning **Go**
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>

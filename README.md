@@ -8,5 +8,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://api.iconify.design/logos-perl.svg" style="display: inline-block;"><img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n3moahead&show_icons=true&locale=en&layout=compact" alt="n3moahead" /></p>
